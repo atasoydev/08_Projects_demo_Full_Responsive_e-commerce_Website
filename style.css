@@ -77,8 +77,11 @@ hr {
 .navbar i.active {
   color: coral;
 }
-#shopping-bag {
+.shopping-bag {
   color: black;
+}
+.shopping-bag.active {
+  color: coral;
 }
 .navbar i {
   font-size: 1.2rem;
@@ -384,4 +387,14 @@ border: 1px solid #b6b3b3;
  margin: 0 12px 20px 0; 
  display: flex;
  justify-content: flex-end;
+}
+.contact iframe {
+    width: 100%;
+    max-width: 100%;
+}
+
+.contact form input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
 }

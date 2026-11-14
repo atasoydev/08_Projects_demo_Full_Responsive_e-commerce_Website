@@ -1,10 +1,14 @@
-<h1> demo_Full_Responsive_e-commerce_Website with Html, Css, JS and Bootstrap</h1>
+<h2> demo_Full_Responsive_e-commerce_Website with Html, Css, JS and Bootstrap</h2>
 
 <h2> ##Demo </h2>
 
+[Demo Website](https://atasoy-demo-full-responsive-ecommerce.netlify.app)
+
 <h2> ##Screenshot </h2>
 
-![](screenshot.gif)
+![](screenshot1.gif)
+
+![](screenshot2.gif)
 
 <h2> ## Credits</h2>
 
